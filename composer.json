@@ -1,0 +1,20 @@
+{
+    "name": "gokifujiya/mdtohtml",
+    "description": "A web application to convert Markdown to HTML using Parsedown.",
+    "type": "project",
+    "require-dev": {
+        "erusev/parsedown": "^1.7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gokifujiya\\Mdtohtml\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gokifujiya",
+            "email": "goki.fujiya@gmail.com"
+        }
+    ]
+}
